@@ -1,6 +1,6 @@
 # Devise: Sicherheit vor Bequemlichkeit
 
-[![Build Status](https://travis-ci.com/crazyyzarc/A-lot-of-security-tips.svg?branch=master)](https://travis-ci.com/crazyyzarc/A-lot-of-security-tips)
+<img src="https://travis-ci.com/crazyyzarc/A-lot-of-security-tips.svg?branch=master">
 
 ## Vorwort
 
