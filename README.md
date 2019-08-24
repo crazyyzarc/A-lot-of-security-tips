@@ -1,4 +1,4 @@
-# AdsAreEverywhere
+# Devise: Sicherheit vor Bequemlichkeit
 
 ## Vorwort
 
