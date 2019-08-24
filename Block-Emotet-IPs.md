@@ -3,7 +3,7 @@ Folgende Beiträge listen die IP-Adressen, die [Emotet](https://de.wikipedia.org
 
 
 Quelle: 
-Abuse.ch
+- Abuse.ch
 + normal https://feodotracker.abuse.ch/downloads/ipblocklist.txt
 + aggressiv https://feodotracker.abuse.ch/downloads/ipblocklist_aggressive.txt
-Der Windows Papst.de https://www.der-windows-papst.de/2019/08/23/block-emotet-ips/
+- Der Windows Papst.de https://www.der-windows-papst.de/2019/08/23/block-emotet-ips/
