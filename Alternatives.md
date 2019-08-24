@@ -5,3 +5,8 @@ Instead of Google Search:
 
 Instead of Google Maps
 + OpenStreetMap (https://www.openstreetmap.de/)
+
+Insead of Google DNS
++ Digitalcourage DNS [46.182.19.48](https://digitalcourage.de/support/zensurfreier-dns-server)
+
+Instead of DNS you should use DNSSEC or DNSoverTLS
