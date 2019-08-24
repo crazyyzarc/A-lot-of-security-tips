@@ -1,5 +1,7 @@
 # Devise: Sicherheit vor Bequemlichkeit
 
+[![Build Status](https://travis-ci.com/crazyyzarc/A-lot-of-security-tips.svg?branch=master)](https://travis-ci.com/crazyyzarc/A-lot-of-security-tips)
+
 ## Vorwort
 
 Wie große Konzerne im digitalen Zeitalter digitale Profile von uns erstellen, um diese dann zu sammeln, erweitern, verknüpfen und zu verkaufen bricht jedermanns Privatsphäre. Weshalb sonst sind Facebook, Amazon, Apple, Microsoft und allen voran der Primus Google an vordester Front der reichsten Unternehmen weltweit.
