@@ -1,4 +1,4 @@
-# Link
+# W10 Privacy Links
 - [Turn off Inventory Collector](https://www.windows-security.org/8cb262cbd4b94fb7d3ec810760e83587/turn-off-inventory-collector)
 - [Windows 10: Unerwünschte Installation von Windows-Store-Apps verhindern](https://www.tecchannel.de/a/unerwuenschte-installation-von-windows-store-apps-verhindern,3277892)
 - [Windows 10 Settings](http://www-pc.uni-regensburg.de/systemsw/win10/settings.htm)
