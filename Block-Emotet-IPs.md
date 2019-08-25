@@ -15,7 +15,7 @@ Folgende Seite listet die IP-Adressen, die [Emotet](https://de.wikipedia.org/wik
 + Weitere Informationen / More Information https://feodotracker.abuse.ch/blocklist/
 <p></p>
 
-```python
+```
 ################################################################
 # abuse.ch Feodo Tracker Botnet C2 IP Blocklist (IPs only)     #
 # Last updated: 2019-08-23 12:08:53 UTC                        #
