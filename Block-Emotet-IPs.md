@@ -13,10 +13,8 @@ Folgende Seite listet die IP-Adressen, die [Emotet](https://de.wikipedia.org/wik
 - normal https://feodotracker.abuse.ch/downloads/ipblocklist.txt
 - aggressiv / aggressive https://feodotracker.abuse.ch/downloads/ipblocklist_aggressive.tx
 + Weitere Informationen / More Information https://feodotracker.abuse.ch/blocklist/
-
-
-<p>
-  ```
+<p></p>
+```
   ################################################################
 # abuse.ch Feodo Tracker Botnet C2 IP Blocklist (IPs only)     #
 # Last updated: 2019-08-23 12:08:53 UTC                        #
@@ -398,5 +396,4 @@ Folgende Seite listet die IP-Adressen, die [Emotet](https://de.wikipedia.org/wik
 158.58.172.230
 216.81.62.54
 # END (371) entries
-  ```
-</p>
+```
