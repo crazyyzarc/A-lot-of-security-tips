@@ -49,7 +49,7 @@ Eine Studie im Auftrag des niederländischen Justizministeriums befasste sich au
 
 (Quelle: [Artikel auf golem.de](https://www.golem.de/news/microsoft-telemetrie-weiter-datenschutzprobleme-mit-office-und-windows-1907-142861.html))
 
-
+Erneutere Untersuchung ergab erneutes Risiko für Windows 10 HOME/PRO Nutzer: [Artikel auf borncity.com](https://www.borncity.com/blog/2019/08/28/windows-10-erneut-im-fokus-der-eu-datenschtzer/)
 
 
 
