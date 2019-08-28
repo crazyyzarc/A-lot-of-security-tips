@@ -1,7 +1,7 @@
 # Must haves for Firefox
 
 ```diff
-1. uBlock Origin
++ uBlock Origin
 2. uMatrix
 3. Facebook Container
 ```
