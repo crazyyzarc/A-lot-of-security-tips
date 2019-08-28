@@ -52,8 +52,19 @@ Eine Studie im Auftrag des niederländischen Justizministeriums befasste sich au
 Erneutere Untersuchung [28.08.2019] ergab erneutes Risiko für Windows 10 HOME/PRO Nutzer: [Artikel auf borncity.com](https://www.borncity.com/blog/2019/08/28/windows-10-erneut-im-fokus-der-eu-datenschtzer/)
 
 
+# Analyse
+Unter diesem Namen verbirgt sich ein Datenanalyse Tool von Microsoft, womit Windows 10 Benutzer ihre gesammelten Telemetrie Daten einsehen können. Die gesammelten Daten geben Aufschluss über:
 
+- Verwendete OS Version, Build version und weitere Indikatoren zur Versionierung
+- Hardware Informationen (Modell, BIOS version, verbaute Hardware etc.)
+- Informationen über verwendete Treiber
+- Heruntergeladen Programme und Apps
+- Office Version
+- Etliche Metadaten zu Windows Updates
+- Fehlerberichte
+- ...
 
+Diese Liste beschränkt sich lediglich auf die Daten, die uns Microsoft mit dem Tool zugänglich macht. Ich bin mir ziemlich sicher, dass noch viele weitere - wohl auch personenbezogene Daten - an Microsoft übermittelt werden. Und nach einer weile der Benutzung dieses Tools ergaben sich stetig neue Einträge in diesem Tool - fast schon jede 10 Minuten. Es wurde die Stufe "Einfach" genutzt.
 
-
+[Screenshot][https://imgur.com/a/e76gzkk]
 
