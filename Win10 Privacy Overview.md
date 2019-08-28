@@ -66,4 +66,4 @@ Unter diesem Namen verbirgt sich ein Datenanalyse Tool von Microsoft, womit Wind
 
 Diese Liste beschränkt sich lediglich auf die Daten, die uns Microsoft mit dem Tool zugänglich macht. Ich bin mir ziemlich sicher, dass noch viele weitere - wohl auch personenbezogene Daten - an Microsoft übermittelt werden. Und nach einer weile der Benutzung dieses Tools ergaben sich stetig neue Einträge in diesem Tool - fast schon jede 10 Minuten. Es wurde die Stufe "Einfach" genutzt.
 
-<a href="https://ibb.co/M5dV8PW"><img src="https://i.ibb.co/Vp6SHMr/pastebin-107-1564992818.png" alt="pastebin-107-1564992818" border="0"></a>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/e76gzkk"><a href="//imgur.com/a/e76gzkk"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
