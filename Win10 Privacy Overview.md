@@ -68,6 +68,7 @@ Diese Liste beschränkt sich lediglich auf die Daten, die uns Microsoft mit dem 
 
 <img alt="Screenshot" src="https://s17.directupload.net/images/190828/vep835ny.png">
 
+</br>
 
 # Quellen
 1. [GitHub/crazzyarc - Win10 Privacy Links](https://github.com/crazyyzarc/A-lot-of-security-tips/blob/master/Win10%20Privacy%20Links.md)
