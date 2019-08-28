@@ -1,12 +1,6 @@
 # Must haves for Firefox
 
 ```diff
-+ Wichtig / important
-! Empfehlenswert / Recommended
-- Andere Funktion / Other function
-```
-
-```diff
 + uBlock Origin
 + uMatrix
 + Facebook Container
@@ -29,4 +23,11 @@
 # Bookmarks Organizer
 # Enterprise Policy Generator
 # Fiddler Fox
+```
+
+# Legende / keys
+```diff
++ Wichtig / important
+! Empfehlenswert / Recommended
+- Andere Funktion / Other function
 ```
