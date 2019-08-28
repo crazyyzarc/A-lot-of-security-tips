@@ -42,10 +42,11 @@ Eine Studie im Auftrag des niederländischen Justizministeriums befasste sich au
 
 - Die Untersuchung von Windows 10 mit der Release ID 1809 und 1903 ist [hier(PDF)](https://www.rijksoverheid.nl/binaries/rijksoverheid/documenten/rapporten/2019/06/11/data-protection-impact-assessment-windows-10-enterprise/DPIA+Windows+10+version+1.5+11+June+2019.pdf) zu finden.
 
-> Bei den Windows-Versionen gibt es die Möglichkeit, das Niveau der Diagnosedaten auf "Sicherheit" zu setzen. Diese Einstellung > steht für Windows 10 Enterprise, Windows 10 Mobile und Windows Server zur Verfügung. Dabei werden lediglich "für den Schutz 
-> von Windows und Windows Server erforderliche Informationen" übertragen. Laut Privacy Company bestehen in diesem Fall keine 
+> Bei den Windows-Versionen gibt es die Möglichkeit, das Niveau der Diagnosedaten auf "Sicherheit" zu setzen. Diese Einstellung > steht für Windows 10 Enterprise, Windows 10 Mobile und Windows Server zur Verfügung. Dabei werden lediglich **"für den Schutz 
+> von Windows und Windows Server erforderliche Informationen"** übertragen. Laut Privacy Company bestehen in diesem Fall keine 
 > hohen Datenschutzrisiken, da Microsoft "sehr wenige und keine sensiblen personenbezogenen Daten" verarbeitet. Dennoch 
-> bestünden vier niedrigere Risiken, unter anderem durch die Datenübertragung in die USA und die lange Speicherdauer der Daten. (Quelle: [Artikel auf golem.de](https://www.golem.de/news/microsoft-telemetrie-weiter-datenschutzprobleme-mit-office-und-windows-1907-142861.html))
+> bestünden vier niedrigere Risiken, unter anderem durch die **Datenübertragung in die USA** und die **lange Speicherdauer** der Daten. 
+(Quelle: [Artikel auf golem.de](https://www.golem.de/news/microsoft-telemetrie-weiter-datenschutzprobleme-mit-office-und-windows-1907-142861.html))
 
 
 
