@@ -67,3 +67,12 @@ Unter diesem Namen verbirgt sich ein Datenanalyse Tool von Microsoft, womit Wind
 Diese Liste beschränkt sich lediglich auf die Daten, die uns Microsoft mit dem Tool zugänglich macht. Ich bin mir ziemlich sicher, dass noch viele weitere - wohl auch personenbezogene Daten - an Microsoft übermittelt werden. Und nach einer weile der Benutzung dieses Tools ergaben sich stetig neue Einträge in diesem Tool - fast schon jede 10 Minuten. Es wurde die Stufe "Einfach" genutzt.
 
 <img alt="Screenshot" src="https://s17.directupload.net/images/190828/vep835ny.png">
+
+
+# Quellen
+1. [GitHub/crazzyarc - Win10 Privacy Links](https://github.com/crazyyzarc/A-lot-of-security-tips/blob/master/Win10%20Privacy%20Links.md)
+2. [Windows-Security.org](https://www.windows-security.org/8cb262cbd4b94fb7d3ec810760e83587/turn-off-inventory-collector)
+3. [Universität Regensburg](http://www-pc.uni-regensburg.de/systemsw/win10/settings.htm)
+4. [Microsoft Docs](https://docs.microsoft.com/en-us/windows/application-management/remove-provisioned-apps-during-update)
+5. [Diagnostic Date Viewer](https://www.microsoft.com/de-de/p/diagnostic-data-viewer/9n8wtrrsq8f7?activetab=pivot:overviewtab#)
+
