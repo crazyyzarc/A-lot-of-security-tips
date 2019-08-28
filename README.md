@@ -15,5 +15,5 @@ Dieses Sammelsorium soll jedem frei zugänglich sein und dient als Einstieg gege
 ### Firefox Browser
 
 ## Betriebssysteme
-### [Windows](https://github.com/crazyyzarc/A-lot-of-security-tips/tree/master/Windows%2010)
+### [Windows 10](https://github.com/crazyyzarc/A-lot-of-security-tips/tree/master/Windows%2010)
 
