@@ -8,7 +8,7 @@
 
 # Meine derzeitige Ausstattung / My current installed addons
 ```diff
-+ uBlock Origin (https://addons.mozilla.org/de/firefox/addon/ublock-origin/)
++ [uBlock Origin](https://addons.mozilla.org/de/firefox/addon/ublock-origin/)
 + uMatrix
 + Facebook Container
 ! Certainly Something (Certifacte Viewer)
