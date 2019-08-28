@@ -9,7 +9,6 @@ Das Projekt gibt Übersicht über eine datenschutzkonforme Nutzung von Windows 1
 
  
 # Microsoft Datenschutzrichtlinien
-<p>
 ## OneDrive
 Unter folgendem Link ist der Servicevertrag zwischen Anwender und Microsoft geregelt: [Microsoft-Servicevertrag](https://www.microsoft.com/de-de/servicesagreement/)
 
@@ -20,17 +19,20 @@ Auszug bzgl. OneDrive
 > um die Produkte und Dienste von Microsoft zu verbessern, **gewähren Sie Microsoft eine weltweite und
 > gebührenfreie Lizenz für geistiges Eigentum zur Verwendung Ihrer Inhalte, z. B. um Kopien Ihrer Inhalte zu erstellen 
 > oder Ihre Inhalte aufzubewahren, zu übertragen, neu zu formatieren, mithilfe von Kommunikationswerkzeugen zu verteilen
-> und über die Dienste anzuzeigen.**</p>
+> und über die Dienste anzuzeigen.**
+
+<p></p>
 
 ## Outlook
-<p>
 Im Folgenden Artikel wird genauer erklärt, dass Microsoft die Anmeldeinformationen abgreift und speichert: [Artikel auf Kuketz-blog.de](https://www.kuketz-blog.de/microsoft-outlook-app-greift-microsoft-die-anmeldedaten-ab/)
 
 > Die offizielle Outlook-App von Microsoft **überträgt** beim Anlegen eines IMAP-Accounts die **kompletten Anmeldedaten an 
 > Microsoft.** Fällt soweit nicht auf, allerdings merkte ich in den Serverlogs meines IMAP-Servers, dass sich **IP-Adressen aus > dem Microsoft IP-Bereich mit meinen gültigen Zugangsdaten anmelden und syncen.** Die Outlook-App verbindet sich dann über 
 > https mit den Microsoft Servern, **um die E-Mails darzustellen.** Ich denke, mit diesem Verhalten der Outlook-App, gebührt 
 > Microsoft ein Platz auf Ihrer Liste von spionierenden E-Mail-Apps.
-</p>
+
+<p></p>
+
 ## Weitere Tatbestände
 Eine Studie im Auftrag des niederländischen Justizministeriums befasste sich ausgiebig mit den übermittelten Telemtriedaten von Office und Windows 10.
 
