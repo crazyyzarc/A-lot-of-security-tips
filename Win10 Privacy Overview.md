@@ -66,4 +66,4 @@ Unter diesem Namen verbirgt sich ein Datenanalyse Tool von Microsoft, womit Wind
 
 Diese Liste beschränkt sich lediglich auf die Daten, die uns Microsoft mit dem Tool zugänglich macht. Ich bin mir ziemlich sicher, dass noch viele weitere - wohl auch personenbezogene Daten - an Microsoft übermittelt werden. Und nach einer weile der Benutzung dieses Tools ergaben sich stetig neue Einträge in diesem Tool - fast schon jede 10 Minuten. Es wurde die Stufe "Einfach" genutzt.
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/e76gzkk"><a href="//imgur.com/a/e76gzkk"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+<a href="https://www.directupload.net" target="_blank"><img src="https://s17.directupload.net/images/190828/vep835ny.png" title="Kostenlos Bilder und Fotos hochladen"></a>
