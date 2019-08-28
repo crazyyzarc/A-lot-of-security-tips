@@ -4,6 +4,7 @@
 + Wichtig / important
 ! Empfehlenswert / Recommended
 - Andere Funktion / Other function
+```
 
 ```diff
 + uBlock Origin
@@ -13,14 +14,14 @@
 
 # Meine derzeitige Ausstattung / My current installed addons
 ```diff
-- 1Passwort X - Password-Manager
-! Certainly Something (Certifacte Viewer)
-+ Facebook Container
-! Invidious Redirect
-! Librefox HTTP Watcher - Red flag
-- Swift Selection Search
 + uBlock Origin
 + uMatrix
++ Facebook Container
+! Certainly Something (Certifacte Viewer)
+! Invidious Redirect
+! Librefox HTTP Watcher - Red flag
+- 1Passwort X - Password-Manager
+- Swift Selection Search
 ```
 
 ## deaktiviert / deactivated
