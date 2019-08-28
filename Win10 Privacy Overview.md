@@ -51,6 +51,7 @@ Eine Studie im Auftrag des niederländischen Justizministeriums befasste sich au
 
 Erneutere Untersuchung [28.08.2019] ergab erneutes Risiko für Windows 10 HOME/PRO Nutzer: [Artikel auf borncity.com](https://www.borncity.com/blog/2019/08/28/windows-10-erneut-im-fokus-der-eu-datenschtzer/)
 
+</br>
 
 # Analyse
 Unter diesem Namen verbirgt sich ein Datenanalyse Tool von Microsoft, womit Windows 10 Benutzer ihre gesammelten Telemetrie Daten einsehen können. Die gesammelten Daten geben Aufschluss über:
