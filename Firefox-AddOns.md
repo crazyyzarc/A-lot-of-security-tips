@@ -7,26 +7,16 @@
 ```
 
 # Meine derzeitige Ausstattung / My current installed addons
-+ [uBlock Origin](https://addons.mozilla.org/de/firefox/addon/ublock-origin/)
-+ uMatrix
-+ Facebook Container
-! Certainly Something (Certifacte Viewer)
-! Invidious Redirect
-! Librefox HTTP Watcher - Red flag
-- 1Passwort X - Password-Manager
-- Swift Selection Search
-```
+1. [uBlock Origin](https://addons.mozilla.org/de/firefox/addon/ublock-origin/)
+2. uMatrix
+3. Facebook Container
+4. Certainly Something (Certifacte Viewer)
+5. Invidious Redirect
+6. Librefox HTTP Watcher - Red flag
+7. 1Passwort X - Password-Manager
+8. Swift Selection Search
 
 ## deaktiviert / deactivated
-```diff
-# Bookmarks Organizer
-# Enterprise Policy Generator
-# Fiddler Fox
-```
-
-# Legende / keys
-```diff
-+ Wichtig / important
-! Empfehlenswert / Recommended
-- Andere Funktion / Other function
-```
+1. Bookmarks Organizer
+2. Enterprise Policy Generator
+3. Fiddler Fox
