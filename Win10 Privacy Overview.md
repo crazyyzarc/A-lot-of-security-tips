@@ -21,7 +21,7 @@ Auszug bzgl. OneDrive
 > oder Ihre Inhalte aufzubewahren, zu übertragen, neu zu formatieren, mithilfe von Kommunikationswerkzeugen zu verteilen
 > und über die Dienste anzuzeigen.**
 
-<p></p>
+</br>
 
 ## Outlook
 Im Folgenden Artikel wird genauer erklärt, dass Microsoft die Anmeldeinformationen abgreift und speichert: [Artikel auf Kuketz-blog.de](https://www.kuketz-blog.de/microsoft-outlook-app-greift-microsoft-die-anmeldedaten-ab/)
@@ -31,7 +31,7 @@ Im Folgenden Artikel wird genauer erklärt, dass Microsoft die Anmeldeinformatio
 > https mit den Microsoft Servern, **um die E-Mails darzustellen.** Ich denke, mit diesem Verhalten der Outlook-App, gebührt 
 > Microsoft ein Platz auf Ihrer Liste von spionierenden E-Mail-Apps.
 
-<p></p>
+</br>
 
 ## Weitere Tatbestände
 Eine Studie im Auftrag des niederländischen Justizministeriums befasste sich ausgiebig mit den übermittelten Telemtriedaten von Office und Windows 10.
