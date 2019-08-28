@@ -46,7 +46,7 @@ Eine Studie im Auftrag des niederländischen Justizministeriums befasste sich au
 > von Windows und Windows Server erforderliche Informationen"** übertragen. Laut Privacy Company bestehen in diesem Fall keine 
 > hohen Datenschutzrisiken, da Microsoft "sehr wenige und keine sensiblen personenbezogenen Daten" verarbeitet. Dennoch 
 > bestünden vier niedrigere Risiken, unter anderem durch die **Datenübertragung in die USA** und die **lange Speicherdauer** der Daten. 
-<p></p>
+</br>
 (Quelle: [Artikel auf golem.de](https://www.golem.de/news/microsoft-telemetrie-weiter-datenschutzprobleme-mit-office-und-windows-1907-142861.html))
 
 
