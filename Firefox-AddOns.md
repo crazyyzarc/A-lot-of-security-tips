@@ -4,6 +4,12 @@
 2. uMatrix
 3. Facebook Container
 
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
 
 # Meine derzeitige Ausstattung / My current installed addons
 1. 1Passwort X - Password-Manager
