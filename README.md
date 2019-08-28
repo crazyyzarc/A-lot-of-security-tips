@@ -10,9 +10,13 @@ Es sollte jedem Bürger das Recht gegeben werden zu wissen und zu entscheiden, w
 
 Dieses Sammelsorium soll jedem frei zugänglich sein und dient als Einstieg gegen der Sammelwut.
 
+</br>
+
 ## Browsers
 ### Google Chrome
 ### Firefox Browser
+
+</br>
 
 ## Betriebssysteme
 ### [Windows 10](https://github.com/crazyyzarc/A-lot-of-security-tips/tree/master/Windows%2010)
