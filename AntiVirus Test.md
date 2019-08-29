@@ -1,5 +1,5 @@
 # Vorwort
-Hierfür gibt es ein Testvirus (genauer gesagt eine Zeichenabfolge), die von allen AV-Produkten erkannt wird und zum Prüfen von Virenschutzlösungen verwendet wird.
+Hierfür gibt es ein Testvirus (genauer gesagt eine Zeichenabfolge), die von allen AV-Produkten erkannt wird und zum Prüfen von Virenschutzlösungen verwendet wird. Genau gesagt die zur Prüfung der Echtzeichtüberwachung aufschluss gibt.
 
 ```diff
 + Die Datei ist vollkommen harmlos
