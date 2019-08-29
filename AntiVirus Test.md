@@ -2,7 +2,7 @@
 Hierfür gibt es ein Testvirus (genauer gesagt eine Zeichenabfolge), die von allen AV-Produkten erkannt wird und zum Prüfen von Virenschutzlösungen verwendet wird.
 
 ```diff
-! Die Datei ist vollkommen harmlos
++ Die Datei ist vollkommen harmlos
 ```
 
 # Datei herunterladen
