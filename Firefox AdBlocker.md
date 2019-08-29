@@ -20,3 +20,4 @@
 > [schneller und ressourcenschonender](https://github.com/gorhill/uBlock#performance).
 
 (Quelle: https://digitalcourage.de/digitale-selbstverteidigung/bitte-keine-werbung-werbeblocker)
+Mehr Infos zum Programm [Acceptable Ads](https://acceptableads.com/)
