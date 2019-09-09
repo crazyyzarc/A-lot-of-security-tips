@@ -17,3 +17,4 @@
 
 ## Andere
 - [Umfrage: Jeder Vierte benutzt vernetzte Lautsprecher](https://www.heise.de/newsticker/meldung/Umfrage-Jeder-Vierte-benutzt-WLAN-Lautsprecher-4502491.html)
+- [Sprachassistenzsysteme auf dem Prüfstand](https://datenschutz-hamburg.de/pressemitteilungen/2019/08/2019-08-01-google-assistant)
