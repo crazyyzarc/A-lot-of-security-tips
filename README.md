@@ -8,7 +8,7 @@ Wie große Konzerne im digitalen Zeitalter digitale Profile von uns erstellen, u
 
 Es sollte jedem Bürger das Recht gegeben werden zu wissen und zu entscheiden, wann und wo, wie und warum meine personenbezogenen Daten an Dritte übermittelt werden. Zwar haben europäische Bürger eine Grundsicherung seit dem 25.05.2018 mit der Datenschutzgrundverordnung (EU-DSGVO), dennoch hält es Unternehmen XYZ immernoch nicht davon ab weiter zu sammeln, solang du als Nutzer der Plattform, der Webseite oder der Dienstleistung davon nichts mitbekommst. Das Geschäft ist viel zu lukrativ als das man - als Unternehmen - rücksicht auf seine Benutzer nimmt.
 
-Dieses Sammelsorium soll jedem frei zugänglich sein und dient als Einstieg gegen dem digitales Profiling.
+Dieses Sammelsorium soll jedem frei zugänglich sein und dient als Einstieg gegen digitales Profiling.
 
 </br>
 
